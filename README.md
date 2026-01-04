@@ -8,11 +8,11 @@
 * [cite_start]**Kết nối:** VPN Site-to-Site kết nối các chi nhánh với Data Center[cite: 654].
 * [cite_start]**Sẵn sàng cao (HA):** Đảm bảo hệ thống luôn hoạt động ổn định với cơ chế dự phòng[cite: 687].
 * [cite_start]**Giám sát:** Theo dõi hiệu suất toàn hệ thống[cite: 655].
-
-## 2. Mô Hình Mạng (Network Topology)
+ 2. Mô Hình Mạng (Network Topology)
 Sơ đồ vật lý và logic của toàn bộ hệ thống mạng FastPay:
 
-![Network Topology](D:\UIT\pic\tkm\topology.png)
+
+##<img width="1453" height="625" alt="topology" src="https://github.com/user-attachments/assets/685c4333-532b-4d39-b8f3-f2861158666b" />
 
 > *Lưu ý: Sơ đồ bao gồm thiết kế 3 lớp, kết nối VPN giữa các Site và phân hoạch vùng DMZ/Server farm.*
 
